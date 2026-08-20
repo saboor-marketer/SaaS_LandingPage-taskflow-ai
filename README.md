@@ -184,3 +184,7 @@ This project is created for demonstration purposes.
 ---
 
 **Note**: This is a frontend-only landing page. No backend services are required for deployment.
+
+## MADE WITH 💖
+
+---
